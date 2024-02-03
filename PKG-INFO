@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: Topsis-Shivam102116113
+Version: 1.0.0
+Summary: Calculating topsis score and finding rank
+Home-page: UNKNOWN
+Author: Shivam
+Author-email: sdhiman1_be21@thapar.edu
+License: MIT
+Description: ## TOPSIS-Shivam102116113
+        
+        ## To Install 
+        
+        ```
+        
+        pip install Topsis-Shivam102116113
+        
+        ```
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
